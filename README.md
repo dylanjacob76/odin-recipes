@@ -1,2 +1,2 @@
 # odin-recipes
-Basic recipes page
+Very basic recipes page for a foundation refresher
