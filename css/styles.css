@@ -1,0 +1,100 @@
+/* UNIVERSAL */
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+/* HOMEPAGE */
+.homepage-heading {
+  text-align: center;
+  margin-top: 24px;
+  padding: 12px;
+}
+
+.homepage-links {
+  text-align: center;
+  list-style: none;
+}
+
+.homepage-links li  {
+  margin-bottom: 8px;
+}
+
+/* RECIPES */
+.recipe-heading, .ingredients-header {
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding: 12px;
+}
+
+.recipe-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 10px;
+}
+
+.ramen-img-top {
+  width: 650px;
+}
+
+.recipe-img-bottom {
+  margin-top: 40px;
+}
+
+.recipe-desc-header {
+  text-align: center;
+  margin: 60px 24px 24px 24px;
+}
+
+.recipe-desc, .ingredients, .steps {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 800px;
+  line-height: 1.5rem;  
+}
+
+.ingredients h2 {
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.ingredients ul li {
+  list-style: none;
+}
+
+.ingredients p {
+  margin: 12px;
+  font-weight: bold;
+}
+
+
+.steps {
+  text-align: left;
+}
+
+.steps h2 {
+  margin-top: 50px;
+  margin-bottom: 24px;
+}
+
+.steps p {
+  margin-bottom: 12px
+}
+
+.steps ol p {
+  margin: 12px;
+}
+
+.steps h2, .steps p, .steps ol p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin: 60px 40px 40px 40px;
+}
